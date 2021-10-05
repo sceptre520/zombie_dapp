@@ -8,3 +8,4 @@ build/
 ### SolidityTruffle ###
 # depedencies
 */node_modules
+./package-lock.json
