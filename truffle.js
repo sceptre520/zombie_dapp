@@ -1,6 +1,6 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
 const LoomTruffleProvider = require('loom-truffle-provider');
-const mnemonic = "YOUR MNEMONIC HERE";
+const mnemonic = "tiger blue wolf gang team member onion cat sheet shift alt control";
 module.exports = {
     // Object with configuration for each network
     networks: {

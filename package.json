@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sceptre520/zombie_dapp#readme",
   "dependencies": {
+    "chai": "^4.3.4",
     "truffle-hdwallet-provider": "^1.0.17"
   }
 }
